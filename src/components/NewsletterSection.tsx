@@ -39,10 +39,7 @@ export default function NewsletterSection() {
         {/* Description text */}
         <div className="max-w-xl text-center mb-12">
           <p className="text-white text-base md:text-lg">
-            In order to start receiving our news, all you have to do is enter
-            your email address. Everything else will be taken care of by us.
-            We will send you emails containing information about game. We
-            don&apos;t spam.
+            Langsung saja
           </p>
         </div>
 
